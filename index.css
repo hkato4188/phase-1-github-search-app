@@ -8,6 +8,22 @@
   display: flex;
 }
 
+h2{
+  padding: 10px;
+  margin: 20px;
+}
 ul {
   list-style: none;
+  padding: 10px;
+}
+
+img{
+  padding: 10px;
+  max-width: 50%;
+  max-height: 100%;
+}
+
+#repos-list{
+  overflow: auto;
+  height: 200px;
 }
